@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Henry</h1>
-<h3 align="center">Computer science student from the UK</h3>
 
-- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/)
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, NodeJS**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
